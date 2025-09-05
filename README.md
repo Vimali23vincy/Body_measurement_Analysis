@@ -65,12 +65,7 @@ This project is implemented using **Python** with the following libraries:
    cd body-measurements-analysis
    ```
 
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Jupyter Notebook:**
+2. **Run the Jupyter Notebook:**
    ```bash
    jupyter notebook Body_Measurements_Analysis.ipynb
    ```
@@ -97,6 +92,6 @@ Body-Measurements-Analysis/
 ---
 
 ## 👨‍💻 Author
-- **Name:** [Vimali vincy M]
-- **Email:** [vincymicheal123@gmail.com]  
-- **LinkedIn:** [https://www.linkedin.com/in/vimalivincy-m]
+- **Name:** Vimali vincy M
+- **Email:** vincymicheal123@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/vimalivincy-m
